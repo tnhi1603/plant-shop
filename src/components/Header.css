@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #6aaa64;
+  padding: 10px 20px;
+  color: white;
+}
+.logo {
+  margin: 0;
+}
+nav a {
+  margin-left: 15px;
+  font-weight: bold;
+}

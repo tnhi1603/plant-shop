@@ -1,0 +1,24 @@
+.landing {
+  background-image: url('https://images.unsplash.com/photo-1524594081293-190a2fe0baae');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 40px;
+  text-align: center;
+  border-radius: 8px;
+}
+.start-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #a5d6a7;
+  color: black;
+  border-radius: 5px;
+}
